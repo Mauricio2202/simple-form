@@ -7,3 +7,7 @@
 body {
     background: #000011;
 }
+
+form {
+    min-height: 100vh;
+}
